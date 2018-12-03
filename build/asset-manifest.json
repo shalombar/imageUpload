@@ -1,13 +1,13 @@
 {
-  "main.css": "/uploadImage.github.io/static/css/main.5b5285f6.chunk.css",
-  "main.js": "/uploadImage.github.io/static/js/main.29db3eb8.chunk.js",
-  "main.js.map": "/uploadImage.github.io/static/js/main.29db3eb8.chunk.js.map",
-  "static/js/1.dc94b426.chunk.js": "/uploadImage.github.io/static/js/1.dc94b426.chunk.js",
-  "static/js/1.dc94b426.chunk.js.map": "/uploadImage.github.io/static/js/1.dc94b426.chunk.js.map",
-  "runtime~main.js": "/uploadImage.github.io/static/js/runtime~main.f065c949.js",
-  "runtime~main.js.map": "/uploadImage.github.io/static/js/runtime~main.f065c949.js.map",
-  "static/css/main.5b5285f6.chunk.css.map": "/uploadImage.github.io/static/css/main.5b5285f6.chunk.css.map",
-  "index.html": "/uploadImage.github.io/index.html",
-  "precache-manifest.e35a25e8510c01ade08f1abf53c2da1f.js": "/uploadImage.github.io/precache-manifest.e35a25e8510c01ade08f1abf53c2da1f.js",
-  "service-worker.js": "/uploadImage.github.io/service-worker.js"
+  "main.css": "/imageUpload.github.io/static/css/main.c493fbff.chunk.css",
+  "main.js": "/imageUpload.github.io/static/js/main.88f945d8.chunk.js",
+  "main.js.map": "/imageUpload.github.io/static/js/main.88f945d8.chunk.js.map",
+  "static/js/1.dc94b426.chunk.js": "/imageUpload.github.io/static/js/1.dc94b426.chunk.js",
+  "static/js/1.dc94b426.chunk.js.map": "/imageUpload.github.io/static/js/1.dc94b426.chunk.js.map",
+  "runtime~main.js": "/imageUpload.github.io/static/js/runtime~main.24a9d253.js",
+  "runtime~main.js.map": "/imageUpload.github.io/static/js/runtime~main.24a9d253.js.map",
+  "static/css/main.c493fbff.chunk.css.map": "/imageUpload.github.io/static/css/main.c493fbff.chunk.css.map",
+  "index.html": "/imageUpload.github.io/index.html",
+  "precache-manifest.b84774228a5d05a4746f79a8f12cc906.js": "/imageUpload.github.io/precache-manifest.b84774228a5d05a4746f79a8f12cc906.js",
+  "service-worker.js": "/imageUpload.github.io/service-worker.js"
 }

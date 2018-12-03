@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shalombar.github.io/uploadImage.github.io/",
+  "homepage": "https://shalombar.github.io/imageUpload.github.io/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.10.0",

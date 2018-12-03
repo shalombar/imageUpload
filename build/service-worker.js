@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/uploadImage.github.io/precache-manifest.e35a25e8510c01ade08f1abf53c2da1f.js"
+  "/imageUpload.github.io/precache-manifest.b84774228a5d05a4746f79a8f12cc906.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/uploadImage.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/imageUpload.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
